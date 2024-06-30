@@ -1,0 +1,8 @@
+com\company\onlineshop\model\Customer.class
+com\company\onlineshop\model\Delivery.class
+com\company\onlineshop\model\Order.class
+com\company\onlineshop\Application.class
+com\company\onlineshop\model\Product.class
+com\company\onlineshop\model\enums\DeliveryStatus.class
+com\company\onlineshop\model\OrderItem.class
+com\company\onlineshop\model\Category.class
