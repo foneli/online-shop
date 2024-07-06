@@ -1,11 +1,13 @@
 package com.company.onlineshop.model;
 
 import jakarta.persistence.*;
+import lombok.Data;
 
 import java.time.LocalDate;
 
 @Entity
 @Table(name = "delivery")
+@Data
 public class Delivery {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -17,6 +19,6 @@ public class Delivery {
 
     @OneToOne
     @JoinColumn(name = "order_id", unique = true)
-    private Order order;
+    private Orders orders;
 
     }

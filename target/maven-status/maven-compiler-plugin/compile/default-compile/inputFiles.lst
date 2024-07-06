@@ -1,8 +1,20 @@
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\Application.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\Category.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\Customer.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\Delivery.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\enums\DeliveryStatus.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\Order.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\OrderItem.java
-C:\fnogh\javaProject\onlineShop\src\main\java\com\company\onlineshop\model\Product.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\repository\ProductRepository.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\service\ProductServiceService.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\Product.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\Delivery.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\service\ICategoryService.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\dto\ProductDto.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\controller\ProductController.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\service\IProductService.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\enums\DeliveryStatus.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\service\CategoryServiceService.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\Category.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\controller\CategoryController.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\repository\CategoryRepository.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\mapper\ProductMapper.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\Customer.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\mapper\CategoryMapper.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\dto\CategoryDto.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\OrderItem.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\model\Orders.java
+C:\fnogh\javaProject\onlineShop - Copy\src\main\java\com\company\onlineshop\Application.java
